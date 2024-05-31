@@ -1,0 +1,1 @@
+se faltar algo, pega um quadrado preto, que é isso que testa as cores
